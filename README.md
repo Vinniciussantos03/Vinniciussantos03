@@ -1,4 +1,4 @@
-<p align="left">Olá 👋! Meu nome é Vinicius Santos eu sou  Desenvolvedor de Sistemas 😜.</p>
+<p align="left">Olá 👋! Meu nome é Vinicius dos Santos e eu sou  Desenvolvedor de Sistemas 😜.</p>
 
 ###
 
